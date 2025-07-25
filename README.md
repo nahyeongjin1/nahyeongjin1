@@ -28,6 +28,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
+  <br />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -42,6 +43,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
   <img width="12" />
+  <br />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
