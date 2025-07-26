@@ -58,6 +58,8 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pug" height="30" alt="pug logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
 </div>
 
 ###
