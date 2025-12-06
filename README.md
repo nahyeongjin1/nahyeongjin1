@@ -1,82 +1,61 @@
-<h2 align="center">Hi 🖐️</h2>
+## Hyeongjin Na
 
-###
+A developer who doesn't limit themselves when facing problems.
+
+### About
+
+- Backend Developer (TypeScript / Node.js)
+- Konkuk University, Computer Science & Engineering (Expected Aug 2026)
+- Backend-focused, but working across the full web stack
+
+### Projects
+
+<details>
+  <summary><strong>AIew</strong> - Real-time AI Interview Practice Service (2025)</summary>
+  <div markdown="1">
+
+- **Overview**: LLM, STT, TTS를 활용한 실시간 AI 면접 연습 서비스
+- **Role**: Backend & Infrastructure (3인 팀)
+- **Stack**: Fastify, Socket.io, Prisma, PostgreSQL
+- **Infra**: Docker Compose, Nginx, Azure VM (4 containers)
+- **Highlights**: Socket.io 기반 실시간 면접 세션 구현
+- **Links**: [Service](https://aiew.dev/) | [GitHub](https://github.com/ku-cse-grad-proj/AIew)
+
+  </div>
+</details>
+
+<details>
+  <summary><strong>NHJ.log</strong> - Custom-built Tech Blog (WIP)</summary>
+  <div markdown="1">
+
+- **Overview**: 직접 구현하는 개인 기술 블로그
+- **Stack**: React Router v7 Framework mode, Notion as CMS
+- **Links**: [Blog](https://hyeongjin.me/) | [GitHub](https://github.com/nahyeongjin1/NHJ.log)
+
+  </div>
+</details>
+
+### Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahyeongjin1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahyeongjin1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-  <a href="https://solved.ac/skgudwls">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skgudwls" />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img width="2" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img width="2" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" />
-  <img width="2" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" />
-  <img width="2" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img width="2" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Shadcn-000000?style=flat&logo=shadcnui&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img width="2" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img width="2" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-  <img width="2" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/nagudwls/?hl=ko" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=INSTAGRAM&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:hastroboy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
 
 ###
@@ -86,5 +65,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahyeongjin1/nahyeongjin1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nahyeongjin1/nahyeongjin1/output/pacman-contribution-graph.svg">
 </picture>
-
-###
