@@ -1,4 +1,4 @@
-## Hyeongjin Na
+## 🫠 Hyeongjin Na
 
 A developer who doesn't limit themselves when facing problems.
 
