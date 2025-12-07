@@ -14,7 +14,7 @@ A developer who doesn't limit themselves when facing problems.
   <summary><strong>AIew</strong> - Real-time AI Interview Practice Service (2025)</summary>
   <div markdown="1">
 
-- **Overview**: LLM, STT, TTS를 활용한 실시간 AI 면접 연습 서비스
+- **Overview**: LLM, STT, TTS, FER을 활용한 실시간 AI 면접 연습 서비스
 - **Role**: Backend & Infrastructure (3인 팀, with [@lth-1026](https://github.com/lth-1026), [@xumeink](https://github.com/xumeink))
 - **Stack**: Fastify, Socket.io, Prisma, PostgreSQL
 - **Infra**: Docker Compose, Nginx, Azure VM (4 containers)
