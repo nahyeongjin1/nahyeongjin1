@@ -15,11 +15,25 @@ A developer who doesn't limit themselves when facing problems.
   <div markdown="1">
 
 - **Overview**: LLM, STT, TTS를 활용한 실시간 AI 면접 연습 서비스
-- **Role**: Backend & Infrastructure (3인 팀)
+- **Role**: Backend & Infrastructure (3인 팀, with [@lth-1026](https://github.com/lth-1026), [@xumeink](https://github.com/xumeink))
 - **Stack**: Fastify, Socket.io, Prisma, PostgreSQL
 - **Infra**: Docker Compose, Nginx, Azure VM (4 containers)
 - **Highlights**: Socket.io 기반 실시간 면접 세션 구현
 - **Links**: [Service](https://aiew.dev/) | [GitHub](https://github.com/ku-cse-grad-proj/AIew)
+
+  </div>
+</details>
+
+<details>
+  <summary><strong>AKLP</strong> - AI-powered Kubernetes Learning Platform (2025)</summary>
+  <div markdown="1">
+
+- **Overview**: CLI 기반 Kubernetes 학습 플랫폼. AI가 kubectl 명령어/YAML 생성, 학습 추천, 대화 기록 저장
+- **Role**: Microservices (note, task, file) & Infrastructure (3인 팀, with [@SIKU-KR](https://github.com/SIKU-KR), [@xumeink](https://github.com/xumeink))
+- **Stack**: FastAPI, SQLAlchemy, Alembic, httpx, uv
+- **Infra**: k3s, Docker Compose, PostgreSQL (Statefulset)
+- **Highlights**: 서비스 템플릿을 만들어 단기간(8주) MSA 구현
+- **Links**: [GitHub](https://github.com/next-gen-dist-sys)
 
   </div>
 </details>
