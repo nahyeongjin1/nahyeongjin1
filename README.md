@@ -4,7 +4,7 @@ A developer who doesn't limit themselves when facing problems.
 
 ### About
 
-- Backend Developer (TypeScript / Node.js)
+- Backend Developer (TypeScript / Python)
 - Konkuk University, Computer Science & Engineering (Expected Aug 2026)
 - Backend-focused, but working across the full web stack
 
