@@ -1,14 +1,14 @@
-## 🫠 Hyeongjin Na
+# 🫠 Hyeongjin Na
 
 A developer who doesn't limit themselves when facing problems.
 
-### About
+## About
 
 - Backend Developer (TypeScript / Python)
 - Konkuk University, Computer Science & Engineering (Expected Aug 2026)
 - Backend-focused, but working across the full web stack
 
-### Projects
+## Projects
 
 <details>
   <summary><strong>AIew</strong> - Real-time AI Interview Practice Service (2025)</summary>
@@ -49,7 +49,7 @@ A developer who doesn't limit themselves when facing problems.
   </div>
 </details>
 
-### Tech Stack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
@@ -62,6 +62,13 @@ A developer who doesn't limit themselves when facing problems.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+## Open Source Contributions
+
+### @netlify/vite-plugin-react-router
+
+- Discovered and reported a bug where `rollupOptions.input` was being overwritten during SSR build, breaking React Router v7's prerender feature
+- [Issue #606](https://github.com/netlify/remix-compute/issues/606) / [Related PR #620](https://github.com/netlify/remix-compute/pull/620)
 
 <!-- ###
 
