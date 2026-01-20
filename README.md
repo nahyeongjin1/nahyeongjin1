@@ -65,7 +65,7 @@ A developer who doesn't limit themselves when facing problems.
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-## Open Source Contributions
+## Contributions
 
 ### @netlify/vite-plugin-react-router
 
