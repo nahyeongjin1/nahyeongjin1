@@ -62,10 +62,24 @@ A developer who doesn't limit themselves when facing problems.
 
 ## Open Source
 
-### @netlify/vite-plugin-react-router
+### Merged
 
-- Discovered and reported a bug where `rollupOptions.input` was being overwritten during SSR build, breaking React Router v7's prerender feature
-- [Issue #606](https://github.com/netlify/remix-compute/issues/606) / [Related PR #620](https://github.com/netlify/remix-compute/pull/620)
+- **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** · Fixed a Firefox-only failure when opening GitHub issue pages ([#314](https://github.com/BaekjoonHub/BaekjoonHub/pull/314))
+- **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** · Reserved `min-height` only while the diagram is loading, removing the leftover blank space after render ([#153](https://github.com/atlassian-labs/mermaid-diagrams-viewer/pull/153))
+- **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** · Added library seat availability and reservation shortcuts ([#60](https://github.com/Turtle-Hwan/LinKU/pull/60))
+
+### In Review
+
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** · Gateway, Slack, and installer fixes — managed SQLite runtime preservation ([#72034](https://github.com/NousResearch/hermes-agent/pull/72034)), compression lookup failure disambiguation ([#72040](https://github.com/NousResearch/hermes-agent/pull/72040)), Slack thread parent replay suppression ([#73450](https://github.com/NousResearch/hermes-agent/pull/73450)), macOS planned restart notices ([#76042](https://github.com/NousResearch/hermes-agent/pull/76042))
+- **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** · Corrected the `ajvFilePlugin` type so it is assignable to Fastify's `ajv.plugins` option ([#605](https://github.com/fastify/fastify-multipart/issues/605) / [#606](https://github.com/fastify/fastify-multipart/pull/606))
+- **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** · Reported theme loss on prerendered pages and implemented client-side cookie based prerender support ([#62](https://github.com/abereghici/remix-themes/issues/62) / [#63](https://github.com/abereghici/remix-themes/pull/63))
+
+### Reported
+
+- **[netlify/remix-compute](https://github.com/netlify/remix-compute)** · `rollupOptions.input` was overwritten during SSR build, breaking React Router v7's prerender ([#606](https://github.com/netlify/remix-compute/issues/606) → fixed in [#620](https://github.com/netlify/remix-compute/pull/620))
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** · `FunctionDeclaration` nesting depth 400 error with Notion MCP enabled ([#5923](https://github.com/google-gemini/gemini-cli/issues/5923)), Enter key not confirming the overwrite-checkpoint prompt ([#6115](https://github.com/google-gemini/gemini-cli/issues/6115))
+- **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** · Drag-selecting a long document pinned the main thread at 100% CPU via O(N) `NSTextSelectionNavigation` hit-testing ([#4576](https://github.com/manaflow-ai/cmux/issues/4576))
+- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** · Proposed a clearer error message when `origin/HEAD` is unset for `/security-review` ([#12862](https://github.com/anthropics/claude-code/issues/12862))
 
 ## Tech Stack
 
