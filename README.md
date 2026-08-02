@@ -4,20 +4,20 @@ A developer who doesn't limit themselves when facing problems.
 
 ## About
 
-- Backend Developer (TypeScript / Python)
-- Konkuk University, Computer Science & Engineering (Expected Aug 2026)
+- AI Native Product Engineer
+- Konkuk University, Computer Science & Engineering (Aug 2026)
 
 ## Career
 
-| Period            | Company     | Role                      |
-| ----------------- | ----------- | ------------------------- |
-| 2026.03 ~ 2026.09 | **Musinsa** | AI Native Engineer Intern |
+| Period    | Company     | Role                |
+| --------- | ----------- | ------------------- |
+| 2026.03 ~ | **Musinsa** | AI Native Engineer  |
 
 ## Activities
 
-| Period    | Organization     | Role           |
-| --------- | ---------------- | -------------- |
-| 2025.09 ~ | **GDGoC Konkuk** | Backend Member |
+| Period            | Organization     | Role           |
+| ----------------- | ---------------- | -------------- |
+| 2025.09 ~ 2026.07 | **GDGoC Konkuk** | Backend Member |
 
 ## Projects
 
