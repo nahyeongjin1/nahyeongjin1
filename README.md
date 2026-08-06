@@ -64,13 +64,14 @@ A developer who doesn't limit themselves when facing problems.
 
 ### Merged
 
+- **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** · Added an opt-in `prepare → bind → activate` lifecycle so a live session can adopt an existing Slack thread before publishing readiness ([#3816](https://github.com/Yeachan-Heo/gajae-code/pull/3816)), form-encoded Slack Web API requests that `conversations.replies` rejected as JSON ([#3753](https://github.com/Yeachan-Heo/gajae-code/pull/3753)), and made the update version check resolve the npm registry from npm config so mirrored or air-gapped networks stop failing ([#3821](https://github.com/Yeachan-Heo/gajae-code/pull/3821))
 - **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** · Fixed a Firefox-only failure when opening GitHub issue pages ([#314](https://github.com/BaekjoonHub/BaekjoonHub/pull/314))
 - **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** · Reserved `min-height` only while the diagram is loading, removing the leftover blank space after render ([#153](https://github.com/atlassian-labs/mermaid-diagrams-viewer/pull/153))
 - **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** · Added library seat availability and reservation shortcuts ([#60](https://github.com/Turtle-Hwan/LinKU/pull/60))
 
 ### In Review
 
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** · Gateway, Slack, and installer fixes — managed SQLite runtime preservation ([#72034](https://github.com/NousResearch/hermes-agent/pull/72034)), compression lookup failure disambiguation ([#72040](https://github.com/NousResearch/hermes-agent/pull/72040)), Slack thread parent replay suppression ([#73450](https://github.com/NousResearch/hermes-agent/pull/73450)), macOS planned restart notices ([#76042](https://github.com/NousResearch/hermes-agent/pull/76042))
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** · Gateway, Slack, and installer fixes — managed SQLite runtime preservation ([#72034](https://github.com/NousResearch/hermes-agent/pull/72034)), compression lookup failure disambiguation ([#72040](https://github.com/NousResearch/hermes-agent/pull/72040)), Slack thread parent edit replay suppression ([#73450](https://github.com/NousResearch/hermes-agent/pull/73450)), macOS planned restart notices ([#76042](https://github.com/NousResearch/hermes-agent/pull/76042))
 - **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** · Corrected the `ajvFilePlugin` type so it is assignable to Fastify's `ajv.plugins` option ([#605](https://github.com/fastify/fastify-multipart/issues/605) / [#606](https://github.com/fastify/fastify-multipart/pull/606))
 - **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** · Reported theme loss on prerendered pages and implemented client-side cookie based prerender support ([#62](https://github.com/abereghici/remix-themes/issues/62) / [#63](https://github.com/abereghici/remix-themes/pull/63))
 
