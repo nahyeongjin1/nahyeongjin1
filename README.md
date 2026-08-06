@@ -64,23 +64,35 @@ A developer who doesn't limit themselves when facing problems.
 
 ### Merged
 
-- **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** · Added an opt-in `prepare → bind → activate` lifecycle so a live session can adopt an existing Slack thread before publishing readiness ([#3816](https://github.com/Yeachan-Heo/gajae-code/pull/3816)), form-encoded Slack Web API requests that `conversations.replies` rejected as JSON ([#3753](https://github.com/Yeachan-Heo/gajae-code/pull/3753)), and made the update version check resolve the npm registry from npm config so mirrored or air-gapped networks stop failing ([#3821](https://github.com/Yeachan-Heo/gajae-code/pull/3821))
-- **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** · Fixed a Firefox-only failure when opening GitHub issue pages ([#314](https://github.com/BaekjoonHub/BaekjoonHub/pull/314))
-- **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** · Reserved `min-height` only while the diagram is loading, removing the leftover blank space after render ([#153](https://github.com/atlassian-labs/mermaid-diagrams-viewer/pull/153))
-- **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** · Added library seat availability and reservation shortcuts ([#60](https://github.com/Turtle-Hwan/LinKU/pull/60))
+| Project | Contribution |
+| --- | --- |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#3816](https://github.com/Yeachan-Heo/gajae-code/pull/3816) Adopt an existing Slack thread before publishing readiness |
+| | [#3821](https://github.com/Yeachan-Heo/gajae-code/pull/3821) Resolve the npm registry from npm config for mirrored networks |
+| | [#3753](https://github.com/Yeachan-Heo/gajae-code/pull/3753) Form-encode Slack Web API requests rejected as JSON |
+| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | [#314](https://github.com/BaekjoonHub/BaekjoonHub/pull/314) Fix a Firefox-only failure when opening GitHub issue pages |
+| **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | [#153](https://github.com/atlassian-labs/mermaid-diagrams-viewer/pull/153) Reserve `min-height` only while the diagram is loading |
+| **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | [#60](https://github.com/Turtle-Hwan/LinKU/pull/60) Add library seat availability and reservation shortcuts |
 
 ### In Review
 
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** · Gateway, Slack, and installer fixes — managed SQLite runtime preservation ([#72034](https://github.com/NousResearch/hermes-agent/pull/72034)), compression lookup failure disambiguation ([#72040](https://github.com/NousResearch/hermes-agent/pull/72040)), Slack thread parent edit replay suppression ([#73450](https://github.com/NousResearch/hermes-agent/pull/73450)), macOS planned restart notices ([#76042](https://github.com/NousResearch/hermes-agent/pull/76042))
-- **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** · Corrected the `ajvFilePlugin` type so it is assignable to Fastify's `ajv.plugins` option ([#605](https://github.com/fastify/fastify-multipart/issues/605) / [#606](https://github.com/fastify/fastify-multipart/pull/606))
-- **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** · Reported theme loss on prerendered pages and implemented client-side cookie based prerender support ([#62](https://github.com/abereghici/remix-themes/issues/62) / [#63](https://github.com/abereghici/remix-themes/pull/63))
+| Project | Contribution |
+| --- | --- |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#72034](https://github.com/NousResearch/hermes-agent/pull/72034) Preserve the managed SQLite runtime during install |
+| | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
+| | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
+| | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
+| **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | [#606](https://github.com/fastify/fastify-multipart/pull/606) Fix the `ajvFilePlugin` type to satisfy `ajv.plugins` ([#605](https://github.com/fastify/fastify-multipart/issues/605)) |
+| **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | [#63](https://github.com/abereghici/remix-themes/pull/63) Add prerender support with a client-side cookie ([#62](https://github.com/abereghici/remix-themes/issues/62)) |
 
 ### Reported
 
-- **[netlify/remix-compute](https://github.com/netlify/remix-compute)** · `rollupOptions.input` was overwritten during SSR build, breaking React Router v7's prerender ([#606](https://github.com/netlify/remix-compute/issues/606) → fixed in [#620](https://github.com/netlify/remix-compute/pull/620))
-- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** · `FunctionDeclaration` nesting depth 400 error with Notion MCP enabled ([#5923](https://github.com/google-gemini/gemini-cli/issues/5923)), Enter key not confirming the overwrite-checkpoint prompt ([#6115](https://github.com/google-gemini/gemini-cli/issues/6115))
-- **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** · Drag-selecting a long document pinned the main thread at 100% CPU via O(N) `NSTextSelectionNavigation` hit-testing ([#4576](https://github.com/manaflow-ai/cmux/issues/4576))
-- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** · Proposed a clearer error message when `origin/HEAD` is unset for `/security-review` ([#12862](https://github.com/anthropics/claude-code/issues/12862))
+| Project | Issue |
+| --- | --- |
+| **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | [#606](https://github.com/netlify/remix-compute/issues/606) `rollupOptions.input` overwrite breaks React Router v7 prerender — fixed in [#620](https://github.com/netlify/remix-compute/pull/620) |
+| **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | [#5923](https://github.com/google-gemini/gemini-cli/issues/5923) `FunctionDeclaration` nesting depth 400 error with Notion MCP |
+| | [#6115](https://github.com/google-gemini/gemini-cli/issues/6115) Enter does not confirm the overwrite-checkpoint prompt |
+| **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | [#4576](https://github.com/manaflow-ai/cmux/issues/4576) Drag-select pins the main thread at 100% CPU |
+| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | [#12862](https://github.com/anthropics/claude-code/issues/12862) Clearer error when `origin/HEAD` is unset for `/security-review` |
 
 ## Tech Stack
 
