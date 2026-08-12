@@ -66,7 +66,9 @@ A developer who doesn't limit themselves when facing problems.
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#3816](https://github.com/Yeachan-Heo/gajae-code/pull/3816) Adopt an existing Slack thread before publishing readiness |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4328](https://github.com/Yeachan-Heo/gajae-code/pull/4328) Select the launch worktree bucket with a `GJC_WORKTREE_DIR` path template |
+| | [#4248](https://github.com/Yeachan-Heo/gajae-code/pull/4248) Expose bounded current tool activity in coordinator session status |
+| | [#3816](https://github.com/Yeachan-Heo/gajae-code/pull/3816) Adopt an existing Slack thread before publishing readiness |
 | | [#3821](https://github.com/Yeachan-Heo/gajae-code/pull/3821) Resolve the npm registry from npm config for mirrored networks |
 | | [#3753](https://github.com/Yeachan-Heo/gajae-code/pull/3753) Form-encode Slack Web API requests rejected as JSON |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | [#314](https://github.com/BaekjoonHub/BaekjoonHub/pull/314) Fix a Firefox-only failure when opening GitHub issue pages |
@@ -81,6 +83,7 @@ A developer who doesn't limit themselves when facing problems.
 | | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
 | | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
 | | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | [#13952](https://github.com/stablyai/orca/pull/13952) Register the `gjc` CLI as a supported TUI agent |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | [#606](https://github.com/fastify/fastify-multipart/pull/606) Fix the `ajvFilePlugin` type to satisfy `ajv.plugins` ([#605](https://github.com/fastify/fastify-multipart/issues/605)) |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | [#63](https://github.com/abereghici/remix-themes/pull/63) Add prerender support with a client-side cookie ([#62](https://github.com/abereghici/remix-themes/issues/62)) |
 
