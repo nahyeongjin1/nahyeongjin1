@@ -1,0 +1,50 @@
+{
+  "author": "nahyeongjin1",
+
+  "_comment_exclusions": "Work that is not open source contribution: employer, own orgs, team/course projects.",
+  "exclude_owners": [
+    "nahyeongjin1",
+    "musinsa",
+    "peachy-jp",
+    "ku-cse-grad-proj",
+    "next-gen-dist-sys",
+    "Queryus"
+  ],
+  "exclude_repos": [
+    "DistributedSystemTeam15/Team15",
+    "JiraCarabiner/Carabiner"
+  ],
+
+  "_comment_items": "Individual items to drop: own tracking issues, and issues folded into their PR row below.",
+  "exclude_items": [
+    "Yeachan-Heo/gajae-code#4195",
+    "fastify/fastify-multipart#605",
+    "abereghici/remix-themes#62"
+  ],
+
+  "_comment_descriptions": "Curated copy, keyed by owner/repo#number. Markdown is allowed. Anything missing falls back to a cleaned-up title and is reported as needing copy.",
+  "descriptions": {
+    "Yeachan-Heo/gajae-code#4328": "Select the launch worktree bucket with a `GJC_WORKTREE_DIR` path template",
+    "Yeachan-Heo/gajae-code#4248": "Expose bounded current tool activity in coordinator session status",
+    "Yeachan-Heo/gajae-code#3821": "Resolve the npm registry from npm config for mirrored networks",
+    "Yeachan-Heo/gajae-code#3816": "Adopt an existing Slack thread before publishing readiness",
+    "Yeachan-Heo/gajae-code#3753": "Form-encode Slack Web API requests rejected as JSON",
+    "BaekjoonHub/BaekjoonHub#314": "Fix a Firefox-only failure when opening GitHub issue pages",
+    "atlassian-labs/mermaid-diagrams-viewer#153": "Reserve `min-height` only while the diagram is loading",
+    "Turtle-Hwan/LinKU#60": "Add library seat availability and reservation shortcuts",
+
+    "NousResearch/hermes-agent#76042": "Restore macOS planned restart online notices",
+    "NousResearch/hermes-agent#73450": "Prevent Slack thread parent edit replays",
+    "NousResearch/hermes-agent#72040": "Distinguish compression lookup failures",
+    "NousResearch/hermes-agent#72034": "Preserve the managed SQLite runtime during install",
+    "stablyai/orca#13952": "Register the `gjc` CLI as a supported TUI agent",
+    "fastify/fastify-multipart#606": "Fix the `ajvFilePlugin` type to satisfy `ajv.plugins` ([#605](https://github.com/fastify/fastify-multipart/issues/605))",
+    "abereghici/remix-themes#63": "Add prerender support with a client-side cookie ([#62](https://github.com/abereghici/remix-themes/issues/62))",
+
+    "netlify/remix-compute#606": "`rollupOptions.input` overwrite breaks React Router v7 prerender — fixed in [#620](https://github.com/netlify/remix-compute/pull/620)",
+    "google-gemini/gemini-cli#5923": "`FunctionDeclaration` nesting depth 400 error with Notion MCP",
+    "google-gemini/gemini-cli#6115": "Enter does not confirm the overwrite-checkpoint prompt",
+    "manaflow-ai/cmux#4576": "Drag-select pins the main thread at 100% CPU",
+    "anthropics/claude-code#12862": "Clearer error when `origin/HEAD` is unset for `/security-review`"
+  }
+}

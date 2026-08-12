@@ -1,0 +1,40 @@
+name: Sync Open Source section
+
+on:
+  schedule: # once a day, 09:00 KST
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/sync-oss.py
+      - scripts/oss.config.json
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-oss
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: regenerate the Open Source section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/sync-oss.py
+
+      - name: commit if the section changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -qm "docs: sync Open Source section" -- README.md
+          git push

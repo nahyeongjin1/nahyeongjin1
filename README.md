@@ -62,27 +62,29 @@ A developer who doesn't limit themselves when facing problems.
 
 ## Open Source
 
+<!-- oss:start -->
+
 ### Merged
 
 | Project | Contribution |
 | --- | --- |
 | **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4328](https://github.com/Yeachan-Heo/gajae-code/pull/4328) Select the launch worktree bucket with a `GJC_WORKTREE_DIR` path template |
-| | [#4248](https://github.com/Yeachan-Heo/gajae-code/pull/4248) Expose bounded current tool activity in coordinator session status |
-| | [#3816](https://github.com/Yeachan-Heo/gajae-code/pull/3816) Adopt an existing Slack thread before publishing readiness |
-| | [#3821](https://github.com/Yeachan-Heo/gajae-code/pull/3821) Resolve the npm registry from npm config for mirrored networks |
-| | [#3753](https://github.com/Yeachan-Heo/gajae-code/pull/3753) Form-encode Slack Web API requests rejected as JSON |
+|  | [#4248](https://github.com/Yeachan-Heo/gajae-code/pull/4248) Expose bounded current tool activity in coordinator session status |
+|  | [#3821](https://github.com/Yeachan-Heo/gajae-code/pull/3821) Resolve the npm registry from npm config for mirrored networks |
+|  | [#3816](https://github.com/Yeachan-Heo/gajae-code/pull/3816) Adopt an existing Slack thread before publishing readiness |
+|  | [#3753](https://github.com/Yeachan-Heo/gajae-code/pull/3753) Form-encode Slack Web API requests rejected as JSON |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | [#314](https://github.com/BaekjoonHub/BaekjoonHub/pull/314) Fix a Firefox-only failure when opening GitHub issue pages |
-| **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | [#153](https://github.com/atlassian-labs/mermaid-diagrams-viewer/pull/153) Reserve `min-height` only while the diagram is loading |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | [#60](https://github.com/Turtle-Hwan/LinKU/pull/60) Add library seat availability and reservation shortcuts |
+| **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | [#153](https://github.com/atlassian-labs/mermaid-diagrams-viewer/pull/153) Reserve `min-height` only while the diagram is loading |
 
 ### In Review
 
 | Project | Contribution |
 | --- | --- |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#72034](https://github.com/NousResearch/hermes-agent/pull/72034) Preserve the managed SQLite runtime during install |
-| | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
-| | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
-| | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
+|  | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
+|  | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
+|  | [#72034](https://github.com/NousResearch/hermes-agent/pull/72034) Preserve the managed SQLite runtime during install |
 | **[stablyai/orca](https://github.com/stablyai/orca)** | [#13952](https://github.com/stablyai/orca/pull/13952) Register the `gjc` CLI as a supported TUI agent |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | [#606](https://github.com/fastify/fastify-multipart/pull/606) Fix the `ajvFilePlugin` type to satisfy `ajv.plugins` ([#605](https://github.com/fastify/fastify-multipart/issues/605)) |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | [#63](https://github.com/abereghici/remix-themes/pull/63) Add prerender support with a client-side cookie ([#62](https://github.com/abereghici/remix-themes/issues/62)) |
@@ -91,11 +93,13 @@ A developer who doesn't limit themselves when facing problems.
 
 | Project | Issue |
 | --- | --- |
-| **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | [#606](https://github.com/netlify/remix-compute/issues/606) `rollupOptions.input` overwrite breaks React Router v7 prerender — fixed in [#620](https://github.com/netlify/remix-compute/pull/620) |
-| **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | [#5923](https://github.com/google-gemini/gemini-cli/issues/5923) `FunctionDeclaration` nesting depth 400 error with Notion MCP |
-| | [#6115](https://github.com/google-gemini/gemini-cli/issues/6115) Enter does not confirm the overwrite-checkpoint prompt |
-| **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | [#4576](https://github.com/manaflow-ai/cmux/issues/4576) Drag-select pins the main thread at 100% CPU |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | [#12862](https://github.com/anthropics/claude-code/issues/12862) Clearer error when `origin/HEAD` is unset for `/security-review` |
+| **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | [#6115](https://github.com/google-gemini/gemini-cli/issues/6115) Enter does not confirm the overwrite-checkpoint prompt |
+|  | [#5923](https://github.com/google-gemini/gemini-cli/issues/5923) `FunctionDeclaration` nesting depth 400 error with Notion MCP |
+| **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | [#4576](https://github.com/manaflow-ai/cmux/issues/4576) Drag-select pins the main thread at 100% CPU |
+| **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | [#606](https://github.com/netlify/remix-compute/issues/606) `rollupOptions.input` overwrite breaks React Router v7 prerender — fixed in [#620](https://github.com/netlify/remix-compute/pull/620) |
+
+<!-- oss:end -->
 
 ## Tech Stack
 
