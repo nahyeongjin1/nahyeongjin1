@@ -64,7 +64,26 @@ A developer who doesn't limit themselves when facing problems.
 
 <!-- oss:start -->
 
-### Merged
+| Project | ★ | Contributions |
+| --- | --: | --- |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.5k | 5 merged |
+| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 966 | 1 merged |
+| **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 18 | 1 merged |
+| **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 15 | 1 merged |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 229k | 4 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 43k | 1 open |
+| **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 543 | 1 open |
+| **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 159 | 1 open |
+| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 141k | 1 reported |
+| **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 106k | 2 reported |
+| **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | 26k | 1 reported |
+| **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 35 | 1 reported |
+
+<details>
+  <summary>All 20 contributions</summary>
+  <div markdown="1">
+
+**Merged**
 
 | Project | Contribution |
 | --- | --- |
@@ -77,7 +96,7 @@ A developer who doesn't limit themselves when facing problems.
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | [#60](https://github.com/Turtle-Hwan/LinKU/pull/60) Add library seat availability and reservation shortcuts |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | [#153](https://github.com/atlassian-labs/mermaid-diagrams-viewer/pull/153) Reserve `min-height` only while the diagram is loading |
 
-### In Review
+**Open**
 
 | Project | Contribution |
 | --- | --- |
@@ -89,7 +108,7 @@ A developer who doesn't limit themselves when facing problems.
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | [#606](https://github.com/fastify/fastify-multipart/pull/606) Fix the `ajvFilePlugin` type to satisfy `ajv.plugins` ([#605](https://github.com/fastify/fastify-multipart/issues/605)) |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | [#63](https://github.com/abereghici/remix-themes/pull/63) Add prerender support with a client-side cookie ([#62](https://github.com/abereghici/remix-themes/issues/62)) |
 
-### Reported
+**Reported**
 
 | Project | Issue |
 | --- | --- |
@@ -98,6 +117,9 @@ A developer who doesn't limit themselves when facing problems.
 |  | [#5923](https://github.com/google-gemini/gemini-cli/issues/5923) `FunctionDeclaration` nesting depth 400 error with Notion MCP |
 | **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | [#4576](https://github.com/manaflow-ai/cmux/issues/4576) Drag-select pins the main thread at 100% CPU |
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | [#606](https://github.com/netlify/remix-compute/issues/606) `rollupOptions.input` overwrite breaks React Router v7 prerender — fixed in [#620](https://github.com/netlify/remix-compute/pull/620) |
+
+  </div>
+</details>
 
 <!-- oss:end -->
 

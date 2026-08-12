@@ -31,10 +31,13 @@ README = ROOT / "README.md"
 START = "<!-- oss:start -->"
 END = "<!-- oss:end -->"
 
+# key, detail heading, detail column header, summary label.
+# "Open" rather than "In Review": a PR sitting untouched for six months should
+# not be advertised as actively under review.
 SECTIONS = [
-    ("merged", "Merged", "Contribution"),
-    ("review", "In Review", "Contribution"),
-    ("reported", "Reported", "Issue"),
+    ("merged", "Merged", "Contribution", "merged"),
+    ("review", "Open", "Contribution", "open"),
+    ("reported", "Reported", "Issue", "reported"),
 ]
 
 
@@ -113,7 +116,7 @@ def collect(config: dict, auth: str) -> tuple[dict[str, dict], list[str]]:
     items = {i.lower() for i in config["exclude_items"]}
     descriptions = config["descriptions"]
 
-    buckets: dict[str, dict[str, list[dict]]] = {k: {} for k, _, _ in SECTIONS}
+    buckets: dict[str, dict[str, list[dict]]] = {s[0]: {} for s in SECTIONS}
     missing: list[str] = []
 
     # Exclude owners in the query as well as below: it keeps the result set far
@@ -153,22 +156,59 @@ def collect(config: dict, auth: str) -> tuple[dict[str, dict], list[str]]:
     return buckets, sorted(missing)
 
 
+def stars_label(count: int) -> str:
+    if count >= 10000:
+        return f"{round(count / 1000)}k"
+    if count >= 1000:
+        return f"{count / 1000:.1f}k"
+    return str(count)
+
+
 def render(buckets: dict[str, dict], stars: dict[str, int]) -> str:
-    out: list[str] = []
-    for key, heading, column in SECTIONS:
+    """One summary row per project, with the per-item tables folded away.
+
+    Row count then tracks the number of projects, which grows slowly, rather
+    than the number of contributions, which does not.
+    """
+    def rank(repo: str) -> int:
+        """Best status a project reached, so merged work outranks a bug report."""
+        return min(i for i, s in enumerate(SECTIONS) if repo in buckets[s[0]])
+
+    order = sorted(
+        {r for projects in buckets.values() for r in projects},
+        key=lambda r: (rank(r), -stars.get(r, 0), r),
+    )
+    total = sum(len(e) for p in buckets.values() for e in p.values())
+
+    lines = ["| Project | ★ | Contributions |", "| --- | --: | --- |"]
+    for repo in order:
+        counts = [
+            f"{len(buckets[key][repo])} {label}"
+            for key, _, _, label in SECTIONS
+            if repo in buckets[key]
+        ]
+        lines.append(
+            f"| **[{repo}](https://github.com/{repo})** "
+            f"| {stars_label(stars.get(repo, 0))} "
+            f"| {' · '.join(counts)} |"
+        )
+
+    lines += ["", "<details>", f"  <summary>All {total} contributions</summary>"]
+    lines += ["  <div markdown=\"1\">", ""]
+    for key, heading, column, _ in SECTIONS:
         projects = buckets[key]
         if not projects:
             continue
-        out += [f"### {heading}", "", f"| Project | {column} |", "| --- | --- |"]
-        for repo in sorted(projects, key=lambda r: (-stars.get(r, 0), r)):
-            entries = sorted(projects[repo], key=lambda e: -e["number"])
+        lines += [f"**{heading}**", "", f"| Project | {column} |", "| --- | --- |"]
+        for repo in [r for r in order if r in projects]:
             label = f"**[{repo}](https://github.com/{repo})**"
-            for entry in entries:
+            for entry in sorted(projects[repo], key=lambda e: -e["number"]):
                 cell = f"[#{entry['number']}]({entry['url']}) {entry['text']}"
-                out.append(f"| {label} | {cell} |")
+                lines.append(f"| {label} | {cell} |")
                 label = ""
-        out.append("")
-    return "\n".join(out).rstrip("\n")
+        lines.append("")
+    lines += ["  </div>", "</details>"]
+    return "\n".join(lines)
 
 
 def splice(body: str) -> str:
@@ -192,7 +232,7 @@ def main() -> int:
     repos = {r for projects in buckets.values() for r in projects}
     stars = {r: api(f"/repos/{r}", auth).get("stargazers_count", 0) for r in repos}
 
-    counts = {k: sum(len(v) for v in buckets[k].values()) for k, _, _ in SECTIONS}
+    counts = {s[0]: sum(len(v) for v in buckets[s[0]].values()) for s in SECTIONS}
     print(
         f"{len(repos)} projects · "
         + " · ".join(f"{n} {k}" for k, n in counts.items() if n)
