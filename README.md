@@ -96,6 +96,7 @@ A developer who doesn't limit themselves when facing problems.
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | [#12862](https://github.com/anthropics/claude-code/issues/12862) Clearer error when `origin/HEAD` is unset for `/security-review` |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | [#6115](https://github.com/google-gemini/gemini-cli/issues/6115) Enter does not confirm the overwrite-checkpoint prompt |
 |  | [#5923](https://github.com/google-gemini/gemini-cli/issues/5923) `FunctionDeclaration` nesting depth 400 error with Notion MCP |
+| **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | [#4576](https://github.com/manaflow-ai/cmux/issues/4576) Drag-select pins the main thread at 100% CPU |
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | [#606](https://github.com/netlify/remix-compute/issues/606) `rollupOptions.input` overwrite breaks React Router v7 prerender — fixed in [#620](https://github.com/netlify/remix-compute/pull/620) |
 
 <!-- oss:end -->
