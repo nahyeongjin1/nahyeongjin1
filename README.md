@@ -66,21 +66,21 @@ A developer who doesn't limit themselves when facing problems.
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.5k | 5 merged |
-| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 966 | 1 merged |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.5k | 5 merged · 1 open |
+| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 967 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 18 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 15 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 229k | 4 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 43k | 1 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 230k | 4 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 44k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 543 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 159 | 1 open |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 141k | 1 reported |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 106k | 2 reported |
 | **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | 26k | 1 reported |
-| **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 35 | 1 reported |
+| **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 20 contributions</summary>
+  <summary>All 21 contributions</summary>
   <div markdown="1">
 
 **Merged**
@@ -100,6 +100,7 @@ A developer who doesn't limit themselves when facing problems.
 
 | Project | Contribution |
 | --- | --- |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4402](https://github.com/Yeachan-Heo/gajae-code/pull/4402) Report the gjc session title to the containing pane |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
 |  | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
 |  | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
