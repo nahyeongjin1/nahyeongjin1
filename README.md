@@ -66,13 +66,13 @@ A developer who doesn't limit themselves when facing problems.
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.5k | 13 merged · 2 open |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.5k | 16 merged · 1 reported |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 970 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 15 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 233k | 4 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 49k | 1 open |
-| **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 542 | 1 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 234k | 4 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 50k | 1 open |
+| **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 540 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 142k | 1 reported |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 107k | 2 reported |
@@ -80,19 +80,22 @@ A developer who doesn't limit themselves when facing problems.
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 30 contributions</summary>
+  <summary>All 32 contributions</summary>
   <div markdown="1">
 
 **Merged**
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4713](https://github.com/Yeachan-Heo/gajae-code/pull/4713) Scan skills.customDirectories during skill discovery |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4768](https://github.com/Yeachan-Heo/gajae-code/pull/4768) Resolve conventional autoload user scope from the agent directory (#4767) |
+|  | [#4729](https://github.com/Yeachan-Heo/gajae-code/pull/4729) Give the agent local wall-clock time instead of a UTC date |
+|  | [#4713](https://github.com/Yeachan-Heo/gajae-code/pull/4713) Scan skills.customDirectories during skill discovery |
 |  | [#4710](https://github.com/Yeachan-Heo/gajae-code/pull/4710) Stop a nested gjc from releasing its parent pane's agent authority |
 |  | [#4683](https://github.com/Yeachan-Heo/gajae-code/pull/4683) Deliver a steer that interrupts an in-flight tool |
 |  | [#4677](https://github.com/Yeachan-Heo/gajae-code/pull/4677) Name the session and leave a record when a resident blob is fatal |
 |  | [#4670](https://github.com/Yeachan-Heo/gajae-code/pull/4670) Let a resident demotion salvage instead of aborting the turn |
 |  | [#4664](https://github.com/Yeachan-Heo/gajae-code/pull/4664) Stop the resident-cache GC from reaping a live session |
+|  | [#4662](https://github.com/Yeachan-Heo/gajae-code/pull/4662) Honor a server's declared connection window at startup |
 |  | [#4624](https://github.com/Yeachan-Heo/gajae-code/pull/4624) Keep report sequences rising across sessions in a pane |
 |  | [#4402](https://github.com/Yeachan-Heo/gajae-code/pull/4402) Report the gjc session title to the containing pane |
 |  | [#4328](https://github.com/Yeachan-Heo/gajae-code/pull/4328) Select the launch worktree bucket with a `GJC_WORKTREE_DIR` path template |
@@ -108,8 +111,6 @@ A developer who doesn't limit themselves when facing problems.
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4729](https://github.com/Yeachan-Heo/gajae-code/pull/4729) Give the agent local wall-clock time instead of a UTC date |
-|  | [#4662](https://github.com/Yeachan-Heo/gajae-code/pull/4662) Honor a server's declared connection window at startup |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
 |  | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
 |  | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
@@ -122,6 +123,7 @@ A developer who doesn't limit themselves when facing problems.
 
 | Project | Issue |
 | --- | --- |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4769](https://github.com/Yeachan-Heo/gajae-code/issues/4769) User-scope skills/SYSTEM.md/RULES.md ignore the agent directory, and the two skill writers disagree |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | [#12862](https://github.com/anthropics/claude-code/issues/12862) Clearer error when `origin/HEAD` is unset for `/security-review` |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | [#6115](https://github.com/google-gemini/gemini-cli/issues/6115) Enter does not confirm the overwrite-checkpoint prompt |
 |  | [#5923](https://github.com/google-gemini/gemini-cli/issues/5923) `FunctionDeclaration` nesting depth 400 error with Notion MCP |
