@@ -23,12 +23,12 @@
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.6k | 18 merged · 1 reported |
-| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 971 | 1 merged |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.6k | 22 merged · 3 open · 1 reported |
+| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 970 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 15 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 234k | 4 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 51k | 1 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 235k | 4 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 52k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 540 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 143k | 1 reported |
@@ -37,14 +37,18 @@
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 34 contributions</summary>
+  <summary>All 41 contributions</summary>
   <div markdown="1">
 
 **Merged**
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4833](https://github.com/Yeachan-Heo/gajae-code/pull/4833) Keep until-idle on the current turn |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4865](https://github.com/Yeachan-Heo/gajae-code/pull/4865) Teach and enforce per-task worktrees in generated Hermes setup |
+|  | [#4862](https://github.com/Yeachan-Heo/gajae-code/pull/4862) Refuse a launch into an occupied worktree |
+|  | [#4859](https://github.com/Yeachan-Heo/gajae-code/pull/4859) Name a session's worktree per call |
+|  | [#4857](https://github.com/Yeachan-Heo/gajae-code/pull/4857) Mark unregistered sessions in list_sessions |
+|  | [#4833](https://github.com/Yeachan-Heo/gajae-code/pull/4833) Keep until-idle on the current turn |
 |  | [#4830](https://github.com/Yeachan-Heo/gajae-code/pull/4830) Make uninstall dry-run non-mutating |
 |  | [#4768](https://github.com/Yeachan-Heo/gajae-code/pull/4768) Resolve conventional autoload user scope from the agent directory (#4767) |
 |  | [#4729](https://github.com/Yeachan-Heo/gajae-code/pull/4729) Give the agent local wall-clock time instead of a UTC date |
@@ -70,6 +74,9 @@
 
 | Project | Contribution |
 | --- | --- |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4882](https://github.com/Yeachan-Heo/gajae-code/pull/4882) Teach controllers to filter list_sessions on registered |
+|  | [#4875](https://github.com/Yeachan-Heo/gajae-code/pull/4875) Refuse an interactive launch into an occupied worktree |
+|  | [#4852](https://github.com/Yeachan-Heo/gajae-code/pull/4852) Add double-click word and triple-click line selection |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
 |  | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
 |  | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
