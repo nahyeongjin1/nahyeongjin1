@@ -24,11 +24,11 @@
 | Project | ★ | Contributions |
 | --- | --: | --- |
 | **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.6k | 25 merged · 1 reported |
-| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 970 | 1 merged |
+| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 971 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 15 | 1 merged |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 236k | 4 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 53k | 1 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 54k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 540 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 143k | 1 reported |
