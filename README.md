@@ -24,21 +24,21 @@
 | Project | ★ | Contributions |
 | --- | --: | --- |
 | **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.7k | 25 merged · 1 reported |
-| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 972 | 1 merged |
+| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 971 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
-| **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 15 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 239k | 4 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 58k | 1 open |
+| **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 239k | 5 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 59k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 32k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 540 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
-| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 143k | 1 reported |
+| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 144k | 1 reported |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 107k | 2 reported |
 | **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | 27k | 1 reported |
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 42 contributions</summary>
+  <summary>All 43 contributions</summary>
   <div markdown="1">
 
 **Merged**
@@ -78,7 +78,8 @@
 
 | Project | Contribution |
 | --- | --- |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#99902](https://github.com/NousResearch/hermes-agent/pull/99902) Size the summary deadline to the summary it asks for |
+|  | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
 |  | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
 |  | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
 |  | [#72034](https://github.com/NousResearch/hermes-agent/pull/72034) Preserve the managed SQLite runtime during install |
