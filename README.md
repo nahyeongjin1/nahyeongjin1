@@ -27,7 +27,7 @@
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 970 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 242k | 5 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 242k | 6 open |
 | **[stablyai/orca](https://github.com/stablyai/orca)** | 62k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 32k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
@@ -38,7 +38,7 @@
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 43 contributions</summary>
+  <summary>All 44 contributions</summary>
   <div markdown="1">
 
 **Merged**
@@ -78,7 +78,8 @@
 
 | Project | Contribution |
 | --- | --- |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#100355](https://github.com/NousResearch/hermes-agent/pull/100355) Make the auxiliary-window threshold clamp reversible |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#103520](https://github.com/NousResearch/hermes-agent/pull/103520) Route session handoff through native RPCs |
+|  | [#100355](https://github.com/NousResearch/hermes-agent/pull/100355) Make the auxiliary-window threshold clamp reversible |
 |  | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
 |  | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
 |  | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
