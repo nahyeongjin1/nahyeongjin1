@@ -23,12 +23,12 @@
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.7k | 25 merged · 1 reported |
-| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 970 | 1 merged |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.7k | 25 merged · 1 open · 2 reported |
+| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 969 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 243k | 6 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 63k | 1 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 64k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 32k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
@@ -38,7 +38,7 @@
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 44 contributions</summary>
+  <summary>All 46 contributions</summary>
   <div markdown="1">
 
 **Merged**
@@ -78,6 +78,7 @@
 
 | Project | Contribution |
 | --- | --- |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#5385](https://github.com/Yeachan-Heo/gajae-code/pull/5385) Renew bus prompt deadlines on attributable progress |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#103520](https://github.com/NousResearch/hermes-agent/pull/103520) Route session handoff through native RPCs |
 |  | [#100355](https://github.com/NousResearch/hermes-agent/pull/100355) Make the auxiliary-window threshold clamp reversible |
 |  | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
@@ -93,7 +94,8 @@
 
 | Project | Issue |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#4769](https://github.com/Yeachan-Heo/gajae-code/issues/4769) User-scope skills/SYSTEM.md/RULES.md ignore the agent directory, and the two skill writers disagree |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#5406](https://github.com/Yeachan-Heo/gajae-code/issues/5406) Clarify public /mcp reauth support: #5400 guidance vs quarantined dispatcher |
+|  | [#4769](https://github.com/Yeachan-Heo/gajae-code/issues/4769) User-scope skills/SYSTEM.md/RULES.md ignore the agent directory, and the two skill writers disagree |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | [#12862](https://github.com/anthropics/claude-code/issues/12862) Clearer error when `origin/HEAD` is unset for `/security-review` |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | [#6115](https://github.com/google-gemini/gemini-cli/issues/6115) Enter does not confirm the overwrite-checkpoint prompt |
 |  | [#5923](https://github.com/google-gemini/gemini-cli/issues/5923) `FunctionDeclaration` nesting depth 400 error with Notion MCP |
