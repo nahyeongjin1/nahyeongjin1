@@ -23,7 +23,7 @@
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.8k | 26 merged · 2 reported |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.8k | 27 merged · 2 reported |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 969 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
@@ -38,14 +38,15 @@
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 46 contributions</summary>
+  <summary>All 47 contributions</summary>
   <div markdown="1">
 
 **Merged**
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#5385](https://github.com/Yeachan-Heo/gajae-code/pull/5385) Renew bus prompt deadlines on attributable progress |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#5516](https://github.com/Yeachan-Heo/gajae-code/pull/5516) Pin the broker a session host was launched under |
+|  | [#5385](https://github.com/Yeachan-Heo/gajae-code/pull/5385) Renew bus prompt deadlines on attributable progress |
 |  | [#4882](https://github.com/Yeachan-Heo/gajae-code/pull/4882) Teach controllers to filter list_sessions on registered |
 |  | [#4875](https://github.com/Yeachan-Heo/gajae-code/pull/4875) Refuse an interactive launch into an occupied worktree |
 |  | [#4865](https://github.com/Yeachan-Heo/gajae-code/pull/4865) Teach and enforce per-task worktrees in generated Hermes setup |
