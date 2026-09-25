@@ -23,12 +23,12 @@
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 28 merged · 3 reported |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 30 merged · 1 open · 3 reported |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 970 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 248k | 6 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 77k | 1 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 249k | 6 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 78k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 34k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
@@ -38,14 +38,16 @@
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 49 contributions</summary>
+  <summary>All 52 contributions</summary>
   <div markdown="1">
 
 **Merged**
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#5537](https://github.com/Yeachan-Heo/gajae-code/pull/5537) Scope single-session SDK CLI routers to their session |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#5907](https://github.com/Yeachan-Heo/gajae-code/pull/5907) Bind interactive session jobs to the extension context |
+|  | [#5905](https://github.com/Yeachan-Heo/gajae-code/pull/5905) Preserve lifecycle idempotency conflict diagnostics |
+|  | [#5537](https://github.com/Yeachan-Heo/gajae-code/pull/5537) Scope single-session SDK CLI routers to their session |
 |  | [#5516](https://github.com/Yeachan-Heo/gajae-code/pull/5516) Pin the broker a session host was launched under |
 |  | [#5385](https://github.com/Yeachan-Heo/gajae-code/pull/5385) Renew bus prompt deadlines on attributable progress |
 |  | [#4882](https://github.com/Yeachan-Heo/gajae-code/pull/4882) Teach controllers to filter list_sessions on registered |
@@ -81,6 +83,7 @@
 
 | Project | Contribution |
 | --- | --- |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#5908](https://github.com/Yeachan-Heo/gajae-code/pull/5908) Report missing model selection as a typed preflight diagnostic |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#103520](https://github.com/NousResearch/hermes-agent/pull/103520) Route session handoff through native RPCs |
 |  | [#100355](https://github.com/NousResearch/hermes-agent/pull/100355) Make the auxiliary-window threshold clamp reversible |
 |  | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
