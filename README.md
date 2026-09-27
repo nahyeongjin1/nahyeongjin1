@@ -23,12 +23,12 @@
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 31 merged · 3 reported |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 31 merged · 1 open · 3 reported |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 970 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 249k | 6 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 78k | 1 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 79k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 35k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
@@ -38,7 +38,7 @@
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 52 contributions</summary>
+  <summary>All 53 contributions</summary>
   <div markdown="1">
 
 **Merged**
@@ -84,6 +84,7 @@
 
 | Project | Contribution |
 | --- | --- |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6017](https://github.com/Yeachan-Heo/gajae-code/pull/6017) 구조화된 provider 오류 진단을 공개 SDK까지 전달 |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#103520](https://github.com/NousResearch/hermes-agent/pull/103520) Route session handoff through native RPCs |
 |  | [#100355](https://github.com/NousResearch/hermes-agent/pull/100355) Make the auxiliary-window threshold clamp reversible |
 |  | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
