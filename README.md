@@ -23,12 +23,12 @@
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 31 merged · 1 open · 3 reported |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 32 merged · 1 open · 4 reported |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 970 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 249k | 6 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 79k | 1 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 250k | 7 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 80k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 35k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
@@ -38,14 +38,15 @@
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 53 contributions</summary>
+  <summary>All 56 contributions</summary>
   <div markdown="1">
 
 **Merged**
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#5908](https://github.com/Yeachan-Heo/gajae-code/pull/5908) Report missing model selection as a typed preflight diagnostic |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6017](https://github.com/Yeachan-Heo/gajae-code/pull/6017) 구조화된 provider 오류 진단을 공개 SDK까지 전달 |
+|  | [#5908](https://github.com/Yeachan-Heo/gajae-code/pull/5908) Report missing model selection as a typed preflight diagnostic |
 |  | [#5907](https://github.com/Yeachan-Heo/gajae-code/pull/5907) Bind interactive session jobs to the extension context |
 |  | [#5905](https://github.com/Yeachan-Heo/gajae-code/pull/5905) Preserve lifecycle idempotency conflict diagnostics |
 |  | [#5537](https://github.com/Yeachan-Heo/gajae-code/pull/5537) Scope single-session SDK CLI routers to their session |
@@ -84,8 +85,9 @@
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6017](https://github.com/Yeachan-Heo/gajae-code/pull/6017) 구조화된 provider 오류 진단을 공개 SDK까지 전달 |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#103520](https://github.com/NousResearch/hermes-agent/pull/103520) Route session handoff through native RPCs |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6019](https://github.com/Yeachan-Heo/gajae-code/pull/6019) Add no-restart broker Observation diagnostics |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#125361](https://github.com/NousResearch/hermes-agent/pull/125361) Report release channel TLS certificate failures |
+|  | [#103520](https://github.com/NousResearch/hermes-agent/pull/103520) Route session handoff through native RPCs |
 |  | [#100355](https://github.com/NousResearch/hermes-agent/pull/100355) Make the auxiliary-window threshold clamp reversible |
 |  | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
 |  | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
@@ -100,7 +102,8 @@
 
 | Project | Issue |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#5538](https://github.com/Yeachan-Heo/gajae-code/issues/5538) Host abandonment cannot fire while a chat daemon is attached, and SessionActivity.state can only ever be "active" |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6024](https://github.com/Yeachan-Heo/gajae-code/issues/6024) SDK closure: decide separate offline installer pin vs runtime upgrade for expired-cache rollback preparation |
+|  | [#5538](https://github.com/Yeachan-Heo/gajae-code/issues/5538) Host abandonment cannot fire while a chat daemon is attached, and SessionActivity.state can only ever be "active" |
 |  | [#5406](https://github.com/Yeachan-Heo/gajae-code/issues/5406) Clarify public /mcp reauth support: #5400 guidance vs quarantined dispatcher |
 |  | [#4769](https://github.com/Yeachan-Heo/gajae-code/issues/4769) User-scope skills/SYSTEM.md/RULES.md ignore the agent directory, and the two skill writers disagree |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | [#12862](https://github.com/anthropics/claude-code/issues/12862) Clearer error when `origin/HEAD` is unset for `/security-review` |
