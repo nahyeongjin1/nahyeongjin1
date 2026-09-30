@@ -28,13 +28,13 @@
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 250k | 8 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 81k | 1 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 82k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 35k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
-| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 148k | 1 reported |
+| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 149k | 1 reported |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 107k | 2 reported |
-| **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | 27k | 1 reported |
+| **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | 28k | 1 reported |
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
