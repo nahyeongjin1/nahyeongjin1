@@ -23,12 +23,12 @@
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 32 merged · 1 open · 4 reported |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 33 merged · 4 reported |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 973 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 251k | 8 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 83k | 1 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 84k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 35k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
@@ -45,7 +45,8 @@
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6017](https://github.com/Yeachan-Heo/gajae-code/pull/6017) 구조화된 provider 오류 진단을 공개 SDK까지 전달 |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6019](https://github.com/Yeachan-Heo/gajae-code/pull/6019) Add no-restart broker Observation diagnostics |
+|  | [#6017](https://github.com/Yeachan-Heo/gajae-code/pull/6017) 구조화된 provider 오류 진단을 공개 SDK까지 전달 |
 |  | [#5908](https://github.com/Yeachan-Heo/gajae-code/pull/5908) Report missing model selection as a typed preflight diagnostic |
 |  | [#5907](https://github.com/Yeachan-Heo/gajae-code/pull/5907) Bind interactive session jobs to the extension context |
 |  | [#5905](https://github.com/Yeachan-Heo/gajae-code/pull/5905) Preserve lifecycle idempotency conflict diagnostics |
@@ -85,7 +86,6 @@
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6019](https://github.com/Yeachan-Heo/gajae-code/pull/6019) Add no-restart broker Observation diagnostics |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#127279](https://github.com/NousResearch/hermes-agent/pull/127279) Use OS trust for source update checks outside hermes_cli.main |
 |  | [#125361](https://github.com/NousResearch/hermes-agent/pull/125361) Report release channel TLS certificate failures |
 |  | [#103520](https://github.com/NousResearch/hermes-agent/pull/103520) Route session handoff through native RPCs |
