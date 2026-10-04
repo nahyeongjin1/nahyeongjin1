@@ -25,11 +25,11 @@
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 34 merged · 1 open · 4 reported |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 2.9k | 35 merged · 1 open · 4 reported |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 973 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 251k | 8 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 251k | 5 open |
 | **[stablyai/orca](https://github.com/stablyai/orca)** | 85k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 35k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
@@ -40,14 +40,15 @@
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 59 contributions</summary>
+  <summary>All 57 contributions</summary>
   <div markdown="1">
 
 **Merged**
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6304](https://github.com/Yeachan-Heo/gajae-code/pull/6304) Redact camelCase secret setting keys such as notifications.slack.appToken |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6305](https://github.com/Yeachan-Heo/gajae-code/pull/6305) Stop Slack/Discord chat daemons from publishing lean finals twice |
+|  | [#6304](https://github.com/Yeachan-Heo/gajae-code/pull/6304) Redact camelCase secret setting keys such as notifications.slack.appToken |
 |  | [#6019](https://github.com/Yeachan-Heo/gajae-code/pull/6019) Add no-restart broker Observation diagnostics |
 |  | [#6017](https://github.com/Yeachan-Heo/gajae-code/pull/6017) 구조화된 provider 오류 진단을 공개 SDK까지 전달 |
 |  | [#5908](https://github.com/Yeachan-Heo/gajae-code/pull/5908) Report missing model selection as a typed preflight diagnostic |
@@ -89,15 +90,12 @@
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6305](https://github.com/Yeachan-Heo/gajae-code/pull/6305) Stop Slack/Discord chat daemons from publishing lean finals twice |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6312](https://github.com/Yeachan-Heo/gajae-code/pull/6312) Retire a running Slack/Discord chat daemon once its notifications are disabled |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | [#127279](https://github.com/NousResearch/hermes-agent/pull/127279) Use OS trust for source update checks outside hermes_cli.main |
 |  | [#125361](https://github.com/NousResearch/hermes-agent/pull/125361) Report release channel TLS certificate failures |
 |  | [#103520](https://github.com/NousResearch/hermes-agent/pull/103520) Route session handoff through native RPCs |
 |  | [#100355](https://github.com/NousResearch/hermes-agent/pull/100355) Make the auxiliary-window threshold clamp reversible |
-|  | [#76042](https://github.com/NousResearch/hermes-agent/pull/76042) Restore macOS planned restart online notices |
-|  | [#73450](https://github.com/NousResearch/hermes-agent/pull/73450) Prevent Slack thread parent edit replays |
 |  | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
-|  | [#72034](https://github.com/NousResearch/hermes-agent/pull/72034) Preserve the managed SQLite runtime during install |
 | **[stablyai/orca](https://github.com/stablyai/orca)** | [#13952](https://github.com/stablyai/orca/pull/13952) Register the `gjc` CLI as a supported TUI agent |
 | **[block/buzz](https://github.com/block/buzz)** | [#7029](https://github.com/block/buzz/pull/7029) Trust OS root certificates for wss connections |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | [#606](https://github.com/fastify/fastify-multipart/pull/606) Fix the `ajvFilePlugin` type to satisfy `ajv.plugins` ([#605](https://github.com/fastify/fastify-multipart/issues/605)) |
