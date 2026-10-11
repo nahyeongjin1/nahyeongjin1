@@ -29,7 +29,7 @@
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 975 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 252k | 5 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 253k | 5 open |
 | **[stablyai/orca](https://github.com/stablyai/orca)** | 89k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 36k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
