@@ -25,29 +25,30 @@
 
 | Project | ★ | Contributions |
 | --- | --: | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 3.0k | 36 merged · 4 reported |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 3.0k | 37 merged · 5 reported |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 975 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 16 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 253k | 5 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 91k | 1 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 254k | 5 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 92k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 36k | 1 open |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
-| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 150k | 1 reported |
+| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 151k | 1 reported |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 107k | 2 reported |
 | **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | 28k | 1 reported |
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 57 contributions</summary>
+  <summary>All 59 contributions</summary>
   <div markdown="1">
 
 **Merged**
 
 | Project | Contribution |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6312](https://github.com/Yeachan-Heo/gajae-code/pull/6312) Retire a running Slack/Discord chat daemon once its notifications are disabled |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6709](https://github.com/Yeachan-Heo/gajae-code/pull/6709) Admit non-create lifecycle requests past unrelated final legacy rows |
+|  | [#6312](https://github.com/Yeachan-Heo/gajae-code/pull/6312) Retire a running Slack/Discord chat daemon once its notifications are disabled |
 |  | [#6305](https://github.com/Yeachan-Heo/gajae-code/pull/6305) Stop Slack/Discord chat daemons from publishing lean finals twice |
 |  | [#6304](https://github.com/Yeachan-Heo/gajae-code/pull/6304) Redact camelCase secret setting keys such as notifications.slack.appToken |
 |  | [#6019](https://github.com/Yeachan-Heo/gajae-code/pull/6019) Add no-restart broker Observation diagnostics |
@@ -105,7 +106,8 @@
 
 | Project | Issue |
 | --- | --- |
-| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6024](https://github.com/Yeachan-Heo/gajae-code/issues/6024) SDK closure: decide separate offline installer pin vs runtime upgrade for expired-cache rollback preparation |
+| **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | [#6708](https://github.com/Yeachan-Heo/gajae-code/issues/6708) Sdk broker: one finished legacy ledger row refuses every session.close/resume/delete ("legacy lifecycle request has an ambiguous target") |
+|  | [#6024](https://github.com/Yeachan-Heo/gajae-code/issues/6024) SDK closure: decide separate offline installer pin vs runtime upgrade for expired-cache rollback preparation |
 |  | [#5538](https://github.com/Yeachan-Heo/gajae-code/issues/5538) Host abandonment cannot fire while a chat daemon is attached, and SessionActivity.state can only ever be "active" |
 |  | [#5406](https://github.com/Yeachan-Heo/gajae-code/issues/5406) Clarify public /mcp reauth support: #5400 guidance vs quarantined dispatcher |
 |  | [#4769](https://github.com/Yeachan-Heo/gajae-code/issues/4769) User-scope skills/SYSTEM.md/RULES.md ignore the agent directory, and the two skill writers disagree |
