@@ -27,15 +27,15 @@
 | --- | --: | --- |
 | **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 3.0k | 37 merged · 5 reported |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 974 | 1 merged |
+| **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 17 | 1 merged |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 256k | 5 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 102k | 1 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 103k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 36k | 1 open |
-| **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 153k | 1 reported |
-| **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 107k | 2 reported |
+| **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 108k | 2 reported |
 | **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | 28k | 1 reported |
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
@@ -85,6 +85,7 @@
 |  | [#3816](https://github.com/Yeachan-Heo/gajae-code/pull/3816) Adopt an existing Slack thread before publishing readiness |
 |  | [#3753](https://github.com/Yeachan-Heo/gajae-code/pull/3753) Form-encode Slack Web API requests rejected as JSON |
 | **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | [#314](https://github.com/BaekjoonHub/BaekjoonHub/pull/314) Fix a Firefox-only failure when opening GitHub issue pages |
+| **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | [#606](https://github.com/fastify/fastify-multipart/pull/606) Fix the `ajvFilePlugin` type to satisfy `ajv.plugins` ([#605](https://github.com/fastify/fastify-multipart/issues/605)) |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | [#60](https://github.com/Turtle-Hwan/LinKU/pull/60) Add library seat availability and reservation shortcuts |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | [#153](https://github.com/atlassian-labs/mermaid-diagrams-viewer/pull/153) Reserve `min-height` only while the diagram is loading |
 
@@ -99,7 +100,6 @@
 |  | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
 | **[stablyai/orca](https://github.com/stablyai/orca)** | [#13952](https://github.com/stablyai/orca/pull/13952) Register the `gjc` CLI as a supported TUI agent |
 | **[block/buzz](https://github.com/block/buzz)** | [#7029](https://github.com/block/buzz/pull/7029) Trust OS root certificates for wss connections |
-| **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | [#606](https://github.com/fastify/fastify-multipart/pull/606) Fix the `ajvFilePlugin` type to satisfy `ajv.plugins` ([#605](https://github.com/fastify/fastify-multipart/issues/605)) |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | [#63](https://github.com/abereghici/remix-themes/pull/63) Add prerender support with a client-side cookie ([#62](https://github.com/abereghici/remix-themes/issues/62)) |
 
 **Reported**
