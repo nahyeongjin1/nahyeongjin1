@@ -30,8 +30,8 @@
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 19 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 262k | 5 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 121k | 1 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 263k | 5 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 122k | 1 open |
 | **[block/buzz](https://github.com/block/buzz)** | 37k | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 155k | 1 reported |
