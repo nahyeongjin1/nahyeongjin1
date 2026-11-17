@@ -31,8 +31,8 @@
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 19 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 264k | 5 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 126k | 1 open |
-| **[block/buzz](https://github.com/block/buzz)** | 37k | 1 open |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 127k | 1 open |
+| **[block/buzz](https://github.com/block/buzz)** | 38k | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 156k | 1 reported |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 109k | 2 reported |
