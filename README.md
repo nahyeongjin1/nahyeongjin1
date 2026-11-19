@@ -26,12 +26,11 @@
 | Project | ★ | Contributions |
 | --- | --: | --- |
 | **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 3.1k | 37 merged · 5 reported |
-| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 973 | 1 merged |
+| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 974 | 1 merged |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 19 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 264k | 5 open |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 128k | 1 open |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 265k | 5 open |
 | **[block/buzz](https://github.com/block/buzz)** | 38k | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
 | **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 156k | 1 reported |
@@ -40,7 +39,7 @@
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
 
 <details>
-  <summary>All 59 contributions</summary>
+  <summary>All 58 contributions</summary>
   <div markdown="1">
 
 **Merged**
@@ -98,7 +97,6 @@
 |  | [#103520](https://github.com/NousResearch/hermes-agent/pull/103520) Route session handoff through native RPCs |
 |  | [#100355](https://github.com/NousResearch/hermes-agent/pull/100355) Make the auxiliary-window threshold clamp reversible |
 |  | [#72040](https://github.com/NousResearch/hermes-agent/pull/72040) Distinguish compression lookup failures |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | [#13952](https://github.com/stablyai/orca/pull/13952) Register the `gjc` CLI as a supported TUI agent |
 | **[block/buzz](https://github.com/block/buzz)** | [#7029](https://github.com/block/buzz/pull/7029) Trust OS root certificates for wss connections |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | [#63](https://github.com/abereghici/remix-themes/pull/63) Add prerender support with a client-side cookie ([#62](https://github.com/abereghici/remix-themes/issues/62)) |
 
