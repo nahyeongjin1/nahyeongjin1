@@ -26,7 +26,7 @@
 | Project | ★ | Contributions |
 | --- | --: | --- |
 | **[Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)** | 3.1k | 37 merged · 5 reported |
-| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 975 | 1 merged |
+| **[BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)** | 980 | 1 merged |
 | **[fastify/fastify-multipart](https://github.com/fastify/fastify-multipart)** | 539 | 1 merged |
 | **[atlassian-labs/mermaid-diagrams-viewer](https://github.com/atlassian-labs/mermaid-diagrams-viewer)** | 19 | 1 merged |
 | **[Turtle-Hwan/LinKU](https://github.com/Turtle-Hwan/LinKU)** | 17 | 1 merged |
