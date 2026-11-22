@@ -33,7 +33,7 @@
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | 265k | 5 open |
 | **[block/buzz](https://github.com/block/buzz)** | 38k | 1 open |
 | **[abereghici/remix-themes](https://github.com/abereghici/remix-themes)** | 158 | 1 open |
-| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 156k | 1 reported |
+| **[anthropics/claude-code](https://github.com/anthropics/claude-code)** | 157k | 1 reported |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | 109k | 2 reported |
 | **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** | 29k | 1 reported |
 | **[netlify/remix-compute](https://github.com/netlify/remix-compute)** | 36 | 1 reported |
